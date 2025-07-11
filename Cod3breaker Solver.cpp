@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    int numbers[] = {2, 3, 4, 5, 6, 7}; 
+    int numbers[] = {11, 66, 75, 78, 80, 145}; 
 
     std::string result = std::to_string(numbers[1] - numbers[0]);
 
